@@ -14,8 +14,8 @@
 
 # Product Makefiles
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/aospa_X01BD.mk
+    $(LOCAL_DIR)/p404_X01BD.mk
 
 # Lunch targets
 COMMON_LUNCH_CHOICES += \
-    aospa_X01BD-userdebug
+    p404_X01BD-userdebug

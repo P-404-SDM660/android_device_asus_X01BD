@@ -1,33 +1,27 @@
 [
     {
         "remote": "github",
-        "repository": "AOSPA-X01BD/android_device_asus_X01BD",
+        "repository": "P-404-SDM660/android_device_asus_X01BD",
         "target_path": "device/asus/X01BD",
-        "revision": "topaz"
+        "revision": "tokui"
     },
     {
         "remote": "github",
-        "repository": "AOSPA-X01BD/android_device_asus_sdm660-common",
+        "repository": "P-404-SDM660/android_device_asus_sdm660-common",
         "target_path": "device/asus/sdm660-common",
-        "revision": "topaz"
+        "revision": "tokui"
     },
     {
         "remote": "github",
-        "repository": "AOSPA-X01BD/kernel_msm-4.19",
+        "repository": "P-404-SDM660/kernel_msm-4.19",
         "target_path": "kernel/msm-4.19",
-        "revision": "topaz"
+        "revision": "tokui"
     },
     {
         "remote": "github",
-        "repository": "AOSPA-X01BD/proprietary_vendor_asus",
+        "repository": "P-404-SDM660/proprietary_vendor_asus",
         "target_path": "vendor/asus",
-        "revision": "topaz"
-    },
-    {
-        "remote": "github",
-        "repository": "AOSPA-X01BD/android_device_qcom_sepolicy",
-        "target_path": "device/qcom/sepolicy-legacy",
-        "revision": "topaz"
+        "revision": "tokui"
     },
     {
         "remote": "github",
@@ -52,17 +46,5 @@
         "repository": "AOSPA-X01BD/android_hardware_qcom_gps",
         "target_path": "hardware/qcom/gps",
         "revision": "topaz-SMxx50"
-    },
-    {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_vendor_nxp_opensource_halimpl",
-        "target_path":  "vendor/nxp/opensource/halimpl",
-        "revision":     "topaz-SN100X-legacy"
-    },
-    {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_vendor_nxp_opensource_hidlimpl",
-        "target_path":  "vendor/nxp/opensource/hidlimpl",
-        "revision":     "topaz-SN100X-legacy"
     }
 ]
